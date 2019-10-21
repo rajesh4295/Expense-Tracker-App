@@ -1,25 +1,9 @@
-body{
-    /* background: #1B110B; */
-}
-
-.container{
-   /* position: relative; */
-}
-
-.innerContainer{
- /* position: absolute;
- top: 50%;
- left: 0; */
-}
-table{
-    clear: both;
-}
-
-table tbody{
-    color: #FFFCF9;
-}
-
-table thead{
-    font-weight: bold;
-    color: #DC1E3E;
+html, body {
+    height: 100%;
+    margin: 0;
+ } 
+.side-bar{
+    width: 15%;
+    height: 600px;
+    float: left;
 }
